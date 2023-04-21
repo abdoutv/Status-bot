@@ -166,7 +166,7 @@ async function update() {
 	}
 }
 // Log in to Discord with your client's token
-client.login(process.env.token)
+client.login("MTA5NjQyMDgxMjE5NTYyNzAzOA.Gyi69U.ydE1MO2k2KPOQG77yfzQo93n-BnZhKGiiXIQuM")
 
 
 const express = require('express')
